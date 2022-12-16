@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PiyushBorhade
 - Data Science
 - Python
-- MAchine Learning
+- Machine Learning
 
 
 <!---
