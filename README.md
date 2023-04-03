@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Piyush Borhade</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushborhade&label=Profile%20views&color=0e75b6&style=flat" alt="piyushborhade" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📝 I regularly write articles on [https://medium.com/@borhadepiyush](https://medium.com/@borhadepiyush)
+
+- 💬 Ask me about **Machine Learning, Python, Powerbi, SQL**
 
 - 📫 How to reach me **borhadepiyush@gmail.com**
 
