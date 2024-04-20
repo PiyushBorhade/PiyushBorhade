@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
+- Do check my portfolio: https://piyushborhade.netlify.app/
+
 - 📝 I regularly write articles on [https://medium.com/@borhadepiyush](https://medium.com/@borhadepiyush)
 
 - Do check this: https://www.youtube.com/@AIforAll_
