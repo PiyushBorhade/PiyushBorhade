@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushborhade&label=Profile%20views&color=0e75b6&style=flat" alt="piyushborhade" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
-
 - Do check my portfolio: https://piyushborhade.netlify.app/
 
 - 📝 I regularly write articles on [https://medium.com/@borhadepiyush](https://medium.com/@borhadepiyush)
 
 - Do check this: https://www.youtube.com/@AIforAll_
 
-- 💬 Ask me about **Machine Learning, Python, Powerbi, SQL**
+- 💬 Ask me about **Machine Learning, Deep Learning, Artifical Intelligence, AI Agents, Python, Powerbi, SQL**
 
 - 📫 How to reach me **borhadepiyush@gmail.com**
 
