@@ -8,8 +8,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@borhadepiyush](https://medium.com/@borhadepiyush)
 
-- Do check this: https://www.youtube.com/@AIforAll_
-
 - 💬 Ask me about **Machine Learning, Deep Learning, Artifical Intelligence, AI Agents, Python, Powerbi, SQL**
 
 - 📫 How to reach me **borhadepiyush@gmail.com**
